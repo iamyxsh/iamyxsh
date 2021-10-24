@@ -26,7 +26,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-[<img align="left" alt="NextJS" width="26px" src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3…vwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" />][webdevplaylist]
-[<img align="left" alt="Go" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thu…/0/05/Go_Logo_Blue.svg/429px-Go_Logo_Blue.svg.png" />][webdevplaylist]
+[<img align="left" alt="NextJS" width="26px" src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3…vwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" />]
+[<img align="left" alt="Go" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thu…/0/05/Go_Logo_Blue.svg/429px-Go_Logo_Blue.svg.png" />]
 [<img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thu…s_Logo.svg/300px-Amazon_Web_Services_Logo.svg.png
-" />][webdevplaylist]
+" />]
