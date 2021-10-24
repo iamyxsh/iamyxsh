@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Autonomies.io](https://www.autonomies.io/) 🎸.
 - 🌱 I’m currently learning __Blockchain__ and __Microservices__.
-- 👯 I’m looking to collaborate on [FreeSkills](https://github.com/Free-Skills) 🦋, a website for the young developers in Indian sub-continent to share their advance skills with other developers.
+- 👯 I’m looking to collaborate on [FreeSkills](https://github.com/Free-Skills) 🦋, a website for young developers in Indian sub-continent to share their advance skills with other students interested. It will be totally Ads-Free, non-profit and the team members have pledged to generate ZERO revenue out of this.
 - 📫 How to reach me: iamyxsh@icloud.com
 
 <br />
