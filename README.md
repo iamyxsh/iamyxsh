@@ -2,9 +2,9 @@
 
 ## Hi, I am a developer and a student in 4th year of engineering in CSE.
 
-- 🔭 I’m currently working on [Autonomies.io 🎸](https://www.autonomies.io/).
+- 🔭 I’m currently working on [Autonomies.io](https://www.autonomies.io/) 🎸.
 - 🌱 I’m currently learning __Blockchain__ and __Microservices__.
-- 👯 I’m looking to collaborate on [FreeSkills 🦋](https://github.com/Free-Skills), a website for the young developers in Indian sub-continent to share their advance skills with other developers.
+- 👯 I’m looking to collaborate on [FreeSkills](https://github.com/Free-Skills) 🦋, a website for the young developers in Indian sub-continent to share their advance skills with other developers.
 - 📫 How to reach me: iamyxsh@icloud.com
 
 <br />
