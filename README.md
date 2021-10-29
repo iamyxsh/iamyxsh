@@ -2,7 +2,7 @@
 
 ## Hi, I am a developer and a student in 4th year of engineering in CSE.
 
-- 🔭 I’m currently working on [Autonomies.io](https://www.autonomies.io/) 🎸 [Bluelibs](https://www.bluelibs.com/) 🗯.
+- 🔭 I’m currently working on [Autonomies.io](https://www.autonomies.io/) 🎸 and [Bluelibs](https://www.bluelibs.com/) 🗯.
 - 🌱 I’m currently learning __Blockchain__ and __Microservices__.
 - 👯 I’m looking to collaborate on [FreeSkills](https://github.com/Free-Skills) 🦋, a website for young developers in Indian sub-continent to share their advance skills with other students interested. It will be totally Ads-Free, non-profit and the team members have pledged to generate ZERO revenue out of this.
 - 📫 How to reach me: iamyxsh@icloud.com
