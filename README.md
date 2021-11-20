@@ -1,6 +1,6 @@
 ### How you doing? 👋
 
-## Hi, I am a developer and an engineering in CSE.
+## Hi, I am a developer and an engineer in CSE.
 
 - 🔭 I’m currently working on [Autonomies.io](https://www.autonomies.io/) 🎸 and [Bluelibs](https://www.bluelibs.com/) 🗯.
 - 🌱 I’m currently learning __Blockchain__ and __Microservices__.
