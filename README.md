@@ -1,4 +1,4 @@
-# Yash Sharma (iamyxsh)
+# Yash Sharma (iamyxsh) 👋
 
 Rust • ZK • Cryptography • Blockchain Systems
 
@@ -6,7 +6,7 @@ I’m a software engineer focused on building low-latency, security-heavy system
 
 ---
 
-## What I’m good at
+## What I’m good at 🧩
 
 **Rust engineering**
 - High-performance services (async, Tokio), clean APIs, and production hardening
@@ -30,7 +30,7 @@ I’m a software engineer focused on building low-latency, security-heavy system
 
 ---
 
-## Tech I use (often)
+## Tech I use (often) ⚙️
 
 **Languages:** Rust, TypeScript, Solidity, Go  
 **Rust stack:** Tokio, async services, benchmarking, profiling, clean crate design  
@@ -40,7 +40,7 @@ I’m a software engineer focused on building low-latency, security-heavy system
 
 ---
 
-## Proof of work (projects)
+## Proof of work (projects) 🔍
 
 A few repos that reflect how I work: tight scope, clean code, and a bias toward correctness + learning-by-building.
 
@@ -72,7 +72,7 @@ RC5 block cipher implementation in Rust. Built to practice clean crypto code str
 
 ---
 
-## Experience snapshot
+## Experience snapshot 🧠
 
 - Built and led delivery of complex protocol systems with multiple smart contracts + backend services
 - Built circuits in Brevis and Noir, and worked on MPC infra
@@ -82,7 +82,7 @@ RC5 block cipher implementation in Rust. Built to practice clean crypto code str
 
 ---
 
-## What I’m looking for
+## What I’m looking for 🎯
 
 Roles where I can build core infrastructure with strong engineering standards:
 - ZK engineer (circuits, proving, integrations, performance)
@@ -91,7 +91,7 @@ Roles where I can build core infrastructure with strong engineering standards:
 
 ---
 
-## Quick facts
+## Quick facts 📍
 
 - Based in India (open to remote)
 - Strong preference for Rust-first stacks
@@ -99,12 +99,9 @@ Roles where I can build core infrastructure with strong engineering standards:
 
 ---
 
-## Contact
+## Contact 🤝
 
 - GitHub: https://github.com/iamyxsh
 - X/Twitter: https://x.com/iamyxsh
 - Email: iamyxsh@gmail.com
 - LinkedIn: https://www.linkedin.com/in/iamyxsh
-
-If you’re hiring for Rust + ZK + cryptography, send a short note with:
-role, current stack, and what you want this person to own in the first 30 days.
